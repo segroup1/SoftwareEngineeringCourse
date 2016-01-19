@@ -17,7 +17,9 @@ Email Address: amirgahroosi@gmail.com
 Background: Computer engineering, mainly involved in programming.
 	
 Name: Sandra Cardona
+Student ID: 7183569
 Email Address: milemontes79@gmail.com
-Background: Computer Engineering
+Background: Electronics Engineering with wide experience in technical sales and project management 
+
 
 Selected Domain: Will be announced
