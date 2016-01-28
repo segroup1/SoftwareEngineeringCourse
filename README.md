@@ -3,7 +3,7 @@ Deliverable 1
 
 Team Name: SAN
 
-Mission and Vision: Vision of our group is to develop a reliable software system which meets costumer’s requirements based on model-driven software engineering methods.
+Mission and Vision: Vision of our group is to develop a reliable and useful software system which meets costumer’s requirements based on model-driven software engineering methods.
 
 Team Members:
 Name: Navid Nazarzadeoghaz
@@ -22,4 +22,5 @@ Email Address: milemontes79@gmail.com
 Background: Electronics Engineering with wide experience in technical sales and project management 
 
 
-Selected Domain: Will be announced
+Selected Domain: Customer relationship Management system - CRM
+
